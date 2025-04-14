@@ -30,7 +30,7 @@ contactForm.addEventListener('submit', function(e) {
 
     // Replace with your SMTP.js credentials
     Email.send({
-        Host: "smtp.elasticemail.com",
+        Host: "smtp.gmail.com",
         Username: "sabarish27hov@gmail.com",
         Password: "Admin@2024",
         To: 'sabarish27nov@gmail.com',
